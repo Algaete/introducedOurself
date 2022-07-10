@@ -298,7 +298,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 60vh;
-  background: url("../img/hero-bg.jpg") center center;
+  background: url("../img/Conocenos_foto2.jpg") center center;
   background-size: cover;
   position: relative;
   margin-top: 70px;
@@ -424,7 +424,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #eaf4fb;
+  background: #fff;
   border-radius: 50px;
   display: flex;
   align-items: center;
@@ -433,7 +433,7 @@ section {
   transition: ease-in-out 0.3s;
 }
 .what-we-do .icon-box .icon i {
-  color: #3498db;
+  color: #790BFF;
   font-size: 28px;
 }
 .what-we-do .icon-box h4 {
@@ -455,7 +455,7 @@ section {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
 }
 .what-we-do .icon-box:hover h4 a, .what-we-do .icon-box:hover .icon i {
-  color: #3498db;
+  color: #89FFCA;
 }
 
 /*--------------------------------------------------------------
