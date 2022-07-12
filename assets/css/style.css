@@ -643,7 +643,7 @@ section {
   transition: all 0.3s ease-in-out;
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #3498db;
+  background: #790BFF;
   color: #fff;
 }
 .portfolio #portfolio-flters li:last-child {
@@ -694,7 +694,7 @@ section {
   line-height: 0;
 }
 .portfolio .portfolio-item figure .link-preview:hover, .portfolio .portfolio-item figure .link-details:hover {
-  background: #3498db;
+  background: #790BFF;
 }
 .portfolio .portfolio-item figure .link-preview:hover i, .portfolio .portfolio-item figure .link-details:hover i {
   color: #fff;
@@ -858,10 +858,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #3498db;
+  border: 1px solid #790BFF;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #3498db;
+  background-color: #790BFF;
 }
 
 /*--------------------------------------------------------------
