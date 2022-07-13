@@ -1090,16 +1090,16 @@ section {
 }
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  /*background: #fff;*/
-  background-image: url(../img/footer_fondo4.jpg);
+  background: #fff;
+  /*background-image: url(../img/footer_fondo4.jpg);*/
   
    
 }
 
-#footer ::before {
+/*#footer ::before {
 
   background: rgba(56, 64, 70, 0.7);
-}
+}*/
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
