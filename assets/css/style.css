@@ -593,12 +593,14 @@ section {
   color: #790BFF;
   font-size: 40px;
   line-height: 0;
+  padding-top: 30px;
 }
 .services .icon-box h4 {
   margin-left: 70px;
   font-weight: 700;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   font-size: 18px;
+  margin-top: 10px;;
 }
 .services .icon-box h4 a {
   color: #384046;
