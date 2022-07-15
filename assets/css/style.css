@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #3498db;
+  color: #790BFF;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -260,7 +260,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #384046;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #3498db;
+  color: #790BFF;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -286,7 +286,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #3498db;
+  color: #790BFF;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -764,10 +764,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #3498db;
+  border: 1px solid #790BFF;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #3498db;
+  background-color: #790BFF;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
@@ -1157,7 +1157,7 @@ section {
 }
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #3498db;
+  color: #790BFF;
 }
 #footer .footer-newsletter {
   font-size: 15px;
