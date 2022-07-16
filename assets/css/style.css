@@ -1120,7 +1120,7 @@ section {
 max-width: 300px;
 max-height: 300px;
 padding-right: 40px;
-
+position: absolute;
 
 
 }
