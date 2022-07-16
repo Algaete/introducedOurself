@@ -1120,7 +1120,8 @@ section {
 max-width: 300px;
 max-height: 300px;
 padding-right: 40px;
-position: absolute;
+
+
 
 
 }
@@ -1211,6 +1212,12 @@ position: absolute;
 }
 #footer .footer-newsletter form input[type=submit]:hover {
   background: #89FFCA;
+}
+
+.coty{
+  color: grey;
+  font-weight:lighter;
+  margin-top: 9px;
 }
 #footer .credits {
   padding-top: 5px;
