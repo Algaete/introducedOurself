@@ -307,7 +307,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero:before {
   content: "";
-  background: rgba(56, 64, 70, 0.7);
+  background: rgba(56, 64, 70, 0.33);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -665,7 +665,7 @@ section {
   overflow: hidden;
 }
 .portfolio .portfolio-item figure {
-  background: #000;
+  /*background: #000;*/
   overflow: hidden;
   height: 240px;
   position: relative;
