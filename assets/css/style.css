@@ -677,7 +677,7 @@ section {
   opacity: 0.4;
   transition: 0.4s;
 }
-.portfolio .portfolio-item figure .link-preview, .portfolio .portfolio-item figure .link-details {
+.portfolio .portfolio-item figure .link-details2, .portfolio .portfolio-item figure .link-details {
   position: absolute;
   display: flex;
   align-items: center;
@@ -693,17 +693,17 @@ section {
   overflow: hidden;
   font-size: 20px;
 }
-.portfolio .portfolio-item figure .link-preview i, .portfolio .portfolio-item figure .link-details i {
+.portfolio .portfolio-item figure .link-details2 i, .portfolio .portfolio-item figure .link-details i {
   color: #384046;
   line-height: 0;
 }
-.portfolio .portfolio-item figure .link-preview:hover, .portfolio .portfolio-item figure .link-details:hover {
+.portfolio .portfolio-item figure .link-details2:hover, .portfolio .portfolio-item figure .link-details:hover {
   background: #790BFF;
 }
-.portfolio .portfolio-item figure .link-preview:hover i, .portfolio .portfolio-item figure .link-details:hover i {
+.portfolio .portfolio-item figure .link-details2:hover i, .portfolio .portfolio-item figure .link-details:hover i {
   color: #fff;
 }
-.portfolio .portfolio-item figure .link-preview {
+.portfolio .portfolio-item figure .link-details2 {
   left: calc(50% - 38px);
   top: calc(50% - 18px);
 }
@@ -711,7 +711,7 @@ section {
   right: calc(50% - 38px);
   top: calc(50% - 18px);
 }
-.portfolio .portfolio-item figure:hover .link-preview {
+.portfolio .portfolio-item figure:hover .link-details2 {
   opacity: 1;
   left: calc(50% - 44px);
 }
